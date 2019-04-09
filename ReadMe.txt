@@ -1,0 +1,1 @@
+To run, simply execute the tictactoe.py file on any computer with python 3 installed.
